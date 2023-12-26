@@ -1,15 +1,16 @@
 # -Algonaut-Job-Assessment
 
-Set up your ⁠ .env ⁠ file:
+- Create a virtual environment based on the provided requirements.txt 
 
-•⁠  ⁠Create a ⁠ .env ⁠ file in the project root directory with the following content:
+- Set up your ⁠ .env ⁠ file:
 
-OPENAI_API_KEY=your_openai_api_key
+  ⁠Create a ⁠ .env ⁠ file in the project root directory with the following content:
 
-Run the Streamlit app from the terminal:
+  OPENAI_API_KEY=your_openai_api_key
 
-⁠ bash
-streamlit run qa_system.py
+- Run the Streamlit app from the terminal:
+
+  streamlit run qa_system.py
  ⁠
-•⁠  ⁠This will open a new window in your web browser with the app interface.
-•⁠  ⁠The app will be accessible at http://localhost:8501.
+  ⁠This will open a new window in your web browser with the app interface.
+  ⁠The app will be accessible at http://localhost:8501.
