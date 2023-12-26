@@ -10,7 +10,7 @@
 
 - Run the Streamlit app from the terminal:
 
-  streamlit run qa_system.py
+  streamlit run main_st.py
  ⁠
   ⁠This will open a new window in your web browser with the app interface.
   ⁠The app will be accessible at http://localhost:8501.
