@@ -1,4 +1,4 @@
-# -Algonaut-Job-Assessment
+# Llama_2_QA_System
 
 - Create a virtual environment based on the provided requirements.txt 
 
